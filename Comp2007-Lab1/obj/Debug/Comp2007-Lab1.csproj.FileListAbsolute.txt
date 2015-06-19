@@ -1,0 +1,6 @@
+c:\users\pavittar singh\documents\visual studio 2013\Projects\Comp2007-Lab1\Comp2007-Lab1\bin\Comp2007-Lab1.dll.config
+c:\users\pavittar singh\documents\visual studio 2013\Projects\Comp2007-Lab1\Comp2007-Lab1\bin\Comp2007-Lab1.dll
+c:\users\pavittar singh\documents\visual studio 2013\Projects\Comp2007-Lab1\Comp2007-Lab1\bin\Comp2007-Lab1.pdb
+c:\users\pavittar singh\documents\visual studio 2013\Projects\Comp2007-Lab1\Comp2007-Lab1\obj\Debug\Comp2007-Lab1.csprojResolveAssemblyReference.cache
+c:\users\pavittar singh\documents\visual studio 2013\Projects\Comp2007-Lab1\Comp2007-Lab1\obj\Debug\Comp2007-Lab1.dll
+c:\users\pavittar singh\documents\visual studio 2013\Projects\Comp2007-Lab1\Comp2007-Lab1\obj\Debug\Comp2007-Lab1.pdb
